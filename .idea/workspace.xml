@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6115764-1e61-426e-85a5-4fdab65fc19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -67,8 +71,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604280467526</updated>
-      <workItem from="1604280468661" duration="1164000" />
+      <workItem from="1604280468661" duration="1720000" />
+      <workItem from="1604282235557" duration="1772000" />
+      <workItem from="1604284071430" duration="1774000" />
+      <workItem from="1604285885140" duration="390000" />
     </task>
+    <task id="LOCAL-00001" summary="html (может в будущем меняться. хз пока)">
+      <created>1604281879979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604281879979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +99,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html (может в будущем меняться. хз пока)" />
+    <option name="LAST_COMMIT_MESSAGE" value="html (может в будущем меняться. хз пока)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="106" y="221" key="#Inspections" timestamp="1604281624810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="106" y="221" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1604281624810" />
   </component>
 </project>
